@@ -1,2 +1,0 @@
-### Inviscid Linear Stability Equations
-

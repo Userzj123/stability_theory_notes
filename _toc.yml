@@ -4,10 +4,12 @@
 format: jb-book
 root: README
 parts:
-  - caption: Stability and Transition in Shear Flows
+  - caption: Introduction
     numbered: True
     chapters:
-    - file: notes/stability_and_transition_in_shear_flows/I_Introduction/Readme.md
-    - file: notes/stability_and_transition_in_shear_flows/III_Eigensolutions/Readme.md
-      sections:
-        - file: notes/stability_and_transition_in_shear_flows/III_Eigensolutions/0301_Viscous_Linear_Stability_Equations.md
+    - file: notes/I_Introduction.md
+  - caption: Part I. Temporal Stability of Parallel Shear Flows
+    numbered: True
+    chapters:
+    - file: notes/II_Linear_Inviscid_Analysis.md
+    - file: notes/III_Eigensolutions.md

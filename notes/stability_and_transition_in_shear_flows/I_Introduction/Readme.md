@@ -1,4 +1,0 @@
-## I. Introduction
-
-```{tableofcontents}
-```

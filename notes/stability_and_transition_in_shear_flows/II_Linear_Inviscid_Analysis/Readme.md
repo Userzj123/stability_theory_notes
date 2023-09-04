@@ -1,4 +1,0 @@
-## Linear Inviscid Analysis
-
-```{tableofcontents}
-```
